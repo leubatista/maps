@@ -1,2 +1,2 @@
 # maps
-Mapa de inflência
+Mapa de influência
